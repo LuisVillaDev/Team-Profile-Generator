@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "MOD 10",
+			"path": "."
+		},
+		{
+			"name": "_tests",
+			"path": "../NodeJSCardGenerator/_tests"
+		},
+		{
+			"name": "lib",
+			"path": "../NodeJSCardGenerator/lib"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MOD 10"
+	}
+}
